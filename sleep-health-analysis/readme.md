@@ -17,7 +17,7 @@ Through data transformation and visualization, I identified several critical cor
 * **Documentation:** Synthesized findings into a structured technical report (Article Writing).
 
 ## 🖼️ Dashboard Preview
-![Dashboard Preview](assets/dashboard-preview.jpg)
+![Dashboard Preview](assets/dashboard_preview.JPG)
 
 ---
 
